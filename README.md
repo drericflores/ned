@@ -7,7 +7,6 @@
 
 NED is a minimal, simple terminal text editor written in pure C99. It is designed to be lightweight and has no external dependencies like ncurses.
 
-b
 
 Based on the source code implementation:
 
