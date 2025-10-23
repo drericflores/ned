@@ -1,5 +1,6 @@
 **NED - A Simple Terminal Text Editor
 **
+
 **Author**: Dr. Eric Oliver Flores
 **Version**: 1.0
 
