@@ -14,8 +14,11 @@ Based on the source code implementation:
 Minimal and Dependency-Free: Written in pure C99 with no external libraries. Raw Terminal Handling: Directly manipulates the terminal using termios.h for raw input mode. 
 
 **Clean UI**: Uses the terminal's "alternate screen" for a clean start and exit, leaving no editor text in your shell history.
+
 **Resize-Safe**: Correctly handles window resize events (SIGWINCH) in the main loop to prevent visual glitches.
+
 **Robust**: Safely handles editing new or empty files without crashing.
+
 **Static Binary**: The included Makefile builds a fully static executable by default, making it highly portable.
 
 **Building**
